@@ -1,0 +1,17 @@
+﻿# Editor settings
+.vscode/
+.idea/
+
+# Temporary and backup files
+*.tmp
+*.bak
+*.old
+*.log
+
+# Database files and backups
+*.mdf
+*.ldf
+
+# Local secrets
+.env
+*.local
